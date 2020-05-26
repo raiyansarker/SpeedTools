@@ -41,7 +41,7 @@ try:
         print("\033[1;34;49mThe distance is " + str(d()) + "m")
     elif query == 4:
         print("\033[1;34;49mThe first momentum is " + str(u()) + "m/s")
-    elif query == 4:
+    elif query == 5:
         print("\033[1;34;49mThe last momentum is " + str(v()) + "m/s")
     else:
         print("Something went wrong")
